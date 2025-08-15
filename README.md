@@ -15,7 +15,7 @@ A developer portfolio built with React + Vite + styled-components showcasing rea
 
 ## 🧱 Tech Stack
 Frontend: React 19, Vite, styled-components, Framer Motion  
-State / Patterns: React hooks, context (Theme)  
+State / Patterns: React Router, React hooks, context (Theme)  
 Styling: CSS variables, styled-components, responsive grid  
 Forms: react-hook-form + EmailJS  
 Tooling: ESLint (modern flat config), Vite build
