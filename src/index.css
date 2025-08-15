@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap");
+
+:root {
+  /* Light theme (default) */
+  --background-color: #ffffff;
+  --card-bg-color: #f9fafb;
+  --card-bg-color-alt: #ffffff;
+  --text-color: #1f2937;
+  --secondary-text-color: #4b5563;
+  --button-bg-color: #3b82f6;
+  --button-hover-bg-color: #2563eb;
+  --border-color: #e5e7eb;
+  --shadow-color: rgba(0, 0, 0, 0.05);
+  --section-bg-color: #f9fafb;
+  --card-border-color: #ddd;
+  --input-border-color: #ccc;
+  --resume-button-bg: #10b981; 
+  --resume-button-hover-bg: #059669;
+  --resume-button-text-color: #ffffff;
+}
+
+[data-theme="dark"] {
+  /* Dark theme */
+  --background-color: #121212;
+  --card-bg-color: #1f2937;
+  --card-bg-color-alt: #2d3748;
+  --text-color: #f9fafb;
+  --secondary-text-color: #d1d5db;
+  --button-bg-color: #3b82f6;
+  --button-hover-bg-color: #2563eb;
+  --border-color: #374151;
+  --shadow-color: rgba(0, 0, 0, 0.2);
+  --section-bg-color: #1a1a1a;
+  --card-border-color: #374151;
+  --input-border-color: #4b5563;
+  --resume-button-bg: #059669;
+  --resume-button-hover-bg: #047857;
+  --resume-button-text-color: #ffffff;
+}
+
+body {
+  background-color: var(--background-color);
+  color: var(--text-color);
+  font-family: "Inter", sans-serif;
+  margin: 0;
+  padding: 0;
+  transition: background-color 0.3s, color 0.3s;
+}

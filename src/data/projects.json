@@ -1,0 +1,117 @@
+[
+  {
+    "title": "Cloudinary MERN Image Upload",
+    "description": "A full-stack image upload and management app using React, Node.js, MongoDB, and Cloudinary. Users can upload images, view them in a gallery, and delete images from both the database and cloud storage.",
+    "tech": [
+      "React",
+      "Express",
+      "MongoDB",
+      "Cloudinary",
+      "Tailwind CSS",
+      "Vite"
+    ],
+    "link": "https://cloudinary-mern-image-upload.vercel.app/",
+    "github": "https://github.com/sunnyshikhar0/cloudinary-mern-image-upload"
+  },
+  {
+    "title": "Chef Claude",
+    "description": "An AI-powered recipe generator web app. Users enter ingredients, and the app uses Anthropic Claude via a secure Express backend to suggest markdown-formatted recipes. Features include dynamic ingredient management, dark/light theme toggle, and animated loading states.",
+    "tech": ["React", "Vite", "Express", "Anthropic Claude API", "Node.js"],
+    "link": "https://chef-claude-ruby.vercel.app/",
+    "github": "https://github.com/sunnyshikhar0/chef-claude"
+  },
+  {
+    "title": "E-commerce API",
+    "description": "Production-ready Node.js + Express e-commerce API with JWT auth, role-based access control, and features for products, categories, cart, orders, and reviews.",
+    "tech": [
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "Mongoose",
+      "jsonwebtoken",
+      "bcryptjs",
+      "joi",
+      "helmet",
+      "cors",
+      "express-rate-limit",
+      "morgan",
+      "dotenv"
+    ],
+    "link": "https://ecommerce-api-production-5bc7.up.railway.app/",
+    "github": "https://github.com/sunnyshikhar0/ecommerce-api"
+  },
+  {
+    "title": "React Feature Showcase",
+    "description": "A multi-feature React app built with Vite and Tailwind CSS, demonstrating pagination, API integration, form validation, theme switching, modal popups, JSON diff viewer, and more.",
+    "tech": [
+      "React",
+      "Vite",
+      "Tailwind CSS",
+      "React hooks",
+      "OMDb API",
+      "WeatherAPI",
+      "GitHub API"
+    ],
+    "link": "https://react-feature-showcase.vercel.app",
+    "github": "https://github.com/sunnyshikhar0/react-feature-showcase"
+  },
+  {
+    "title": "MyMovieLog",
+    "description": "A modern React app to search movies, view details, and track your watched list with ratings. Features include OMDB API integration, localStorage persistence, keyboard shortcuts, and a responsive UI.",
+    "tech": ["React", "React hooks", "Custom Hooks", "OMDB API", "CSS"],
+    "link": "https://react-feature-showcase-3jfg.vercel.app/",
+    "github": "https://github.com/sunnyshikhar0/my-movie-log"
+  },
+  {
+    "title": "URL Shortener",
+    "description": "A full-stack URL shortening app with create, list, copy, and delete features.",
+    "tech": [
+      "React",
+      "Vite",
+      "Express",
+      "MongoDB Atlas",
+      "TailwindCSS",
+      "Railway",
+      "Vercel"
+    ],
+    "link": "https://url-shortener-six-jet.vercel.app",
+    "github": "https://github.com/sunnyshikhar0/url-shortener"
+  },
+  {
+    "title": "Contact API with Authentication",
+    "description": "Secure RESTful API using Node.js, Express, MongoDB (Mongoose) and JWT authentication. Supports user registration/login with hashed passwords and user-scoped CRUD for contacts.",
+    "tech": [
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "Mongoose",
+      "JWT",
+      "bcryptjs",
+      "dotenv",
+      "cors"
+    ],
+    "link": "https://contactapiwithauthentication-production.up.railway.app/",
+    "github": "https://github.com/sunnyshikhar0/contact_api_with_authentication"
+  },
+  {
+    "title": "Bank Account Management",
+    "description": "A modern React-Redux banking app with transaction history, currency conversion, loan management, and persistent state using localStorage.",
+    "tech": ["React", "Redux Toolkit", "localStorage","React hooks", "Frankfurter API"],
+    "link": "https://bank-account-management-eight.vercel.app/",
+    "github": "https://github.com/sunnyshikhar0/bank-account-management"
+  },
+  {
+    "title": "Password Generator",
+    "description": "Simple client-side password generator using HTML, CSS and vanilla JavaScript (runs on Vite). Generates two passwords at once, allows copy-to-clipboard, and supports configurable length (6–32).",
+    "tech": ["HTML", "CSS", "JavaScript", "Vite"],
+    "link": "https://velvety-crisp-f24e8f.netlify.app/",
+    "github": "https://github.com/sunnyshikhar0/password-generator"
+  },
+  {
+    "title": "Metric/Imperial unit converter",
+    "description": "A simple metric/imperial unit converter built with vanilla JavaScript, HTML, and CSS; configured with Vite.",
+    "tech": ["Vanilla JavaScript", "HTML", "CSS", "Vite"],
+    "link": "https://golden-cendol-3d635a.netlify.app/",
+    "github": "https://github.com/sunnyshikhar0/metric-unit-converter"
+  }
+]

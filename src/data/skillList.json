@@ -1,0 +1,21 @@
+ [
+  "React",
+  "Vite",
+  "JavaScript (ES6+)",
+  "HTML & CSS",
+  "Redux Toolkit",
+  "React Router",
+  "Custom Hooks",
+  "Next.js",
+  "Node.js",
+  "Express",
+  "MongoDB / Mongoose",
+  "JWT / bcrypt",
+  "Cloudinary",
+  "Tailwind CSS",
+  "Styled-components",
+  "joi (validation)",
+  "Helmet / CORS / rate-limit",
+  "morgan (logging)",
+  "Git & GitHub"
+]
